@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameEngine.UI/1.0.0": {
+        "dependencies": {
+          "GameEngine.Input": "1.0.0"
+        },
+        "runtime": {
+          "GameEngine.UI.dll": {}
+        }
+      },
+      "GameEngine.Input/1.0.0": {
+        "runtime": {
+          "GameEngine.Input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameEngine.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameEngine.Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

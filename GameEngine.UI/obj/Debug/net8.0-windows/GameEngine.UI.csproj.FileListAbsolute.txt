@@ -1,0 +1,15 @@
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\bin\Debug\net8.0-windows\GameEngine.UI.deps.json
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\bin\Debug\net8.0-windows\GameEngine.UI.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\bin\Debug\net8.0-windows\GameEngine.UI.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\bin\Debug\net8.0-windows\GameEngine.Input.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\bin\Debug\net8.0-windows\GameEngine.Input.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\GameEngine.UI.csproj.AssemblyReference.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\GameEngine.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\GameEngine.UI.AssemblyInfoInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\GameEngine.UI.AssemblyInfo.cs
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\GameEngine.UI.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\GameEngi.28918BB4.Up2Date
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\GameEngine.UI.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\refint\GameEngine.UI.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\GameEngine.UI.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.UI\obj\Debug\net8.0-windows\ref\GameEngine.UI.dll

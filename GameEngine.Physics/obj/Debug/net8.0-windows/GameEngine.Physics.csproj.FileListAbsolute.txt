@@ -1,0 +1,11 @@
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\bin\Debug\net8.0-windows\GameEngine.Physics.deps.json
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\bin\Debug\net8.0-windows\GameEngine.Physics.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\bin\Debug\net8.0-windows\GameEngine.Physics.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\obj\Debug\net8.0-windows\GameEngine.Physics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\obj\Debug\net8.0-windows\GameEngine.Physics.AssemblyInfoInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\obj\Debug\net8.0-windows\GameEngine.Physics.AssemblyInfo.cs
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\obj\Debug\net8.0-windows\GameEngine.Physics.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\obj\Debug\net8.0-windows\GameEngine.Physics.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\obj\Debug\net8.0-windows\refint\GameEngine.Physics.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\obj\Debug\net8.0-windows\GameEngine.Physics.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Physics\obj\Debug\net8.0-windows\ref\GameEngine.Physics.dll

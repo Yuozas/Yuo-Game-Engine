@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\GameEngine.Audio\GameEngine.Audio.csproj"/>
+        <ProjectReference Include="..\GameEngine.Input\GameEngine.Input.csproj"/>
+        <ProjectReference Include="..\GameEngine.Physics\GameEngine.Physics.csproj"/>
+        <ProjectReference Include="..\GameEngine.Rendering\GameEngine.Rendering.csproj"/>
+    </ItemGroup>
+
+</Project>

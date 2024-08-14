@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameEngine.Physics/1.0.0": {
+        "runtime": {
+          "GameEngine.Physics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameEngine.Physics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

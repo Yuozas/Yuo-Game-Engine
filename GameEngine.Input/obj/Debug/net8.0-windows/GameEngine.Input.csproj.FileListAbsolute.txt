@@ -1,0 +1,11 @@
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\bin\Debug\net8.0-windows\GameEngine.Input.deps.json
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\bin\Debug\net8.0-windows\GameEngine.Input.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\bin\Debug\net8.0-windows\GameEngine.Input.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\obj\Debug\net8.0-windows\GameEngine.Input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\obj\Debug\net8.0-windows\GameEngine.Input.AssemblyInfoInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\obj\Debug\net8.0-windows\GameEngine.Input.AssemblyInfo.cs
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\obj\Debug\net8.0-windows\GameEngine.Input.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\obj\Debug\net8.0-windows\GameEngine.Input.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\obj\Debug\net8.0-windows\refint\GameEngine.Input.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\obj\Debug\net8.0-windows\GameEngine.Input.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Input\obj\Debug\net8.0-windows\ref\GameEngine.Input.dll

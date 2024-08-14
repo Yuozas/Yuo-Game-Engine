@@ -1,0 +1,11 @@
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\bin\Debug\net8.0\GameEngine.Audio.deps.json
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\bin\Debug\net8.0\GameEngine.Audio.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\bin\Debug\net8.0\GameEngine.Audio.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\obj\Debug\net8.0\GameEngine.Audio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\obj\Debug\net8.0\GameEngine.Audio.AssemblyInfoInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\obj\Debug\net8.0\GameEngine.Audio.AssemblyInfo.cs
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\obj\Debug\net8.0\GameEngine.Audio.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\obj\Debug\net8.0\GameEngine.Audio.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\obj\Debug\net8.0\refint\GameEngine.Audio.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\obj\Debug\net8.0\GameEngine.Audio.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Audio\obj\Debug\net8.0\ref\GameEngine.Audio.dll

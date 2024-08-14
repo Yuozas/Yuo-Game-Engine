@@ -1,0 +1,12 @@
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\obj\Debug\net8.0\GameEngine.Rendering.csproj.AssemblyReference.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\obj\Debug\net8.0\GameEngine.Rendering.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\obj\Debug\net8.0\GameEngine.Rendering.AssemblyInfoInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\obj\Debug\net8.0\GameEngine.Rendering.AssemblyInfo.cs
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\obj\Debug\net8.0\GameEngine.Rendering.csproj.CoreCompileInputs.cache
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\bin\Debug\net8.0\GameEngine.Rendering.deps.json
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\bin\Debug\net8.0\GameEngine.Rendering.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\bin\Debug\net8.0\GameEngine.Rendering.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\obj\Debug\net8.0\GameEngine.Rendering.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\obj\Debug\net8.0\refint\GameEngine.Rendering.dll
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\obj\Debug\net8.0\GameEngine.Rendering.pdb
+D:\Projects\Personal\Yuo Game Engine\GameEngine.Rendering\obj\Debug\net8.0\ref\GameEngine.Rendering.dll

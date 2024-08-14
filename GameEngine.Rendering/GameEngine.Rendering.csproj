@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="SharpDX" Version="4.2.0"/>
+        <PackageReference Include="SharpDX.Desktop" Version="4.2.0"/>
+        <PackageReference Include="SharpDX.Direct3D12" Version="4.2.0"/>
+        <PackageReference Include="SharpDX.DXGI" Version="4.2.0"/>
+        <PackageReference Include="SharpDX.Mathematics" Version="4.2.0"/>
+        <PackageReference Include="SharpDX.D3DCompiler" Version="4.2.0"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Update="Shaders\VertexShader.hlsl">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+        <None Update="Shaders\PixelShader.hlsl">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+</Project>
